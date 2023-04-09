@@ -1,5 +1,5 @@
 # Patient-Monitoring-Using-Geofencing
-A Device made using Arduino that will automatically send a SMS to registered phone no. When the device will leave the Virtual Vicinity to alarm the Administrator that the Patient has left the perimeter. It targets Dementia Paients who have or going to memory loss and are strugling to keep up with basic everyday tasks.
+A Device made using Arduino that will automatically send a SMS to registered phone no. When the device will leave the Virtual Vicinity to alarm the Administrator that the Patient has left the perimeter. It targets Dementia Patient who have or going to memory loss and are strugling to keep up with basic everyday tasks.
 
 Hardware Used:
 1. Arduino Nano
